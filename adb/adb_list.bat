@@ -1,3 +1,3 @@
 cd %LOCALAPPDATA%\Android\Sdk\platform-tools
-adb devices
+adb devices -l
 timeout 10
