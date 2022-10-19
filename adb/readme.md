@@ -7,7 +7,7 @@ According to https://developer.android.com/studio/command-line/adb adb is:
 > * A daemon (adbd), which runs commands on a device. The daemon runs as a background process on each device.
 > * A server, which manages communication between the client and the daemon. The server runs as a background process on your development machine.
 
-We will use adb to communicate wirelessly with the robot controller to update the FTC code. The link above contains a lot more information on adb and what you can do with it
+We will use adb to communicate wirelessly with the robot controller to update the FTC code running on the robot. The link above contains a lot more information on adb and what you can do with it
 
 # Utilities
 The following scripts were put together to give you the convenient ways to do tasks without the need to type in multiple commands everytime you would like to complete a task
